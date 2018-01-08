@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#one-shots I may never use again, untested/unfinished stuff. Other peoples stuff
+misc/
